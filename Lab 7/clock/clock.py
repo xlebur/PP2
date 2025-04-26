@@ -2,9 +2,9 @@ import pygame
 import os
 
 pygame.init()
-mickey = pygame.image.load(r"C:\Users\Sauka\OneDrive\Рабочий стол\Lab 7\clock\main-clock.png")
-right_hand = pygame.image.load(r"C:\Users\Sauka\OneDrive\Рабочий стол\Lab 7\clock\righthand.PNG") 
-left_hand = pygame.image.load(r"C:\Users\Sauka\OneDrive\Рабочий стол\Lab 7\clock\lefthand.PNG")  
+mickey = pygame.image.load(r"C:\Users\omaru\Desktop\PP2_Spring\Lab 7\clock\main-clock.png")
+right_hand = pygame.image.load(r"C:\Users\omaru\Desktop\PP2_Spring\Lab 7\clock\righthand.PNG") 
+left_hand = pygame.image.load(r"C:\Users\omaru\Desktop\PP2_Spring\Lab 7\clock\lefthand.PNG")  
 screen = pygame.display.set_mode((840, 847))
 done = False
 clock = pygame.time.Clock()

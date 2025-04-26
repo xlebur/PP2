@@ -21,7 +21,7 @@ while not done:
         if y < 470:
             y += 10
 
-    if pressed[pygame.K_a]:
+    if pressed[pygame.K_h]:
         if x > 25:
             x -= 10
 
